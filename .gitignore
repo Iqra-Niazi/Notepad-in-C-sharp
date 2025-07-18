@@ -1,0 +1,80 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+*.exe
+*.dll
+*.app
+*.appx
+*.msi
+*.log
+
+# Visual Studio user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio working directories
+.vs/
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Office temp files
+~$*
+
+# Others
+*.cache
+*.dbmdl
+*.bak
+*.tmp
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Backup files
+*.bak
+*.old
+*.orig
+
+# Compiled help file
+*.chm
+
+# Publish output
+publish/
+
+# Crash logs
+*.stackdump
+
+# dotCover
+*.dotCover
+
+# Test results
+TestResults/
+*.trx
+
+# Global JetBrains Rider (if you're using Rider)
+.idea/
+*.sln.iml
+
+# Windows Forms auto-generated resources
+*.resx
+*.Designer.cs
