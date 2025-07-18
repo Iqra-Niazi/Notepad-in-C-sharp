@@ -35,5 +35,6 @@ Perfect for developers and students learning **C# GUI development**, **WinForms*
    ```bash
    git clone https://github.com/Iqra-Niazi/Notepad-in-C-sharp.git
 
-<img width="1187" height="526" alt="image" src="https://github.com/user-attachments/assets/6a48ec02-02c3-41b8-a470-cdc95164e4f9" />
+<img width="1169" height="513" alt="image" src="https://github.com/user-attachments/assets/7e5dc3d3-d346-47e5-a2cb-bd9338ee6bd0" />
+
 
