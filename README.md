@@ -1,6 +1,7 @@
 # Notepad-in-C-sharp
 Notepad in C#
-# 📝 NotePad – A Simple Notepad Clone in C# (Windows Forms)
+
+# 📝 NotePad – A Simple C# Notepad created in Visual Studio
 
 MyNotePad is a lightweight, user-friendly **Notepad application built in C# using Windows Forms**. It replicates the basic functionality of Windows Notepad and extends it with styling options, font and color customization, and alignment tools.
 
